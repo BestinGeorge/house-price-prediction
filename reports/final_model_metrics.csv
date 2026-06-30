@@ -1,0 +1,7 @@
+,0
+model,StackedEnsemble
+cv_rmse_log_saleprice,0.11077606203912417
+cv_mae_log_saleprice,0.07553235091869134
+cv_r2,0.9231411919026028
+cv_rmse_dollars,20607.873415264818
+cv_mae_dollars,13253.9593941714
